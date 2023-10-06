@@ -1,1 +1,3 @@
 # NOTES--PCM
+This repository is for JEE Aspirant ......They can find the short  notes and formulae for PHYSICS, CHEMISTRY AND MATHS ..... 
+ENJOY STUDYING AND CODING!!!!!
