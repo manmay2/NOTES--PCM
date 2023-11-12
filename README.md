@@ -3,9 +3,9 @@ This repository is for JEE Aspirant ......They can find the short  notes and for
 
 
 ## PURPOSE 
-This particular repository is made  for JEE aspirants. They can download the notes download the notes and read it before there mock tests and final exam.
-Another big reason for making this digital notes is that , one don't need to carry large notebooks before their final exams, candidate may get tired while giving the exam.
-And lastly, this notes are eassily accessble on any device (NO fear of lossing this pdfs like notebooks).  
+This particular repository is made  for JEE aspirants. They can download the notes download  notes and read it before there mock tests and final exam.
+Another big reason for making this digital notes is that , one don't need to carry large notebooks before their final exams, candidate may feel tired while giving the exam.
+And lastly, this notes are easily accessible on any device through this repository (NO fear of lossing this pdfs like notebooks).  
                         !!!!ENJOY STUDYING AND CODING !!!!
 
 
